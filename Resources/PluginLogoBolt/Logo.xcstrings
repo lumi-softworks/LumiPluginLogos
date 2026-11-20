@@ -2,7 +2,7 @@
   "sourceLanguage" : "en",
   "strings" : {
     "Bolt" : {
-      "comment" : "Name of the bolt logo plugin",
+      "comment" : "Name of the logo plugin",
       "localizations" : {
         "en" : {
           "stringUnit" : {
